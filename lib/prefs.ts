@@ -5,6 +5,5 @@ interface Preferences {
 }
 
 export function getPrefs(): Preferences {
-  console.log(getPreferenceValues());
   return getPreferenceValues();
 }
