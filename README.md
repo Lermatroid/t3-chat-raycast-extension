@@ -1,4 +1,6 @@
-# T3 Chat
+> ℹ️ Now in review for the store! [Follow the status here](https://github.com/raycast/extensions/pull/16961).
+
+# T3 Chat Raycast Extension
 
 Create T3 chats directly from Raycast!
 
